@@ -1,1 +1,3 @@
-Обратная связь welcome
+Init:
+npm i
+npm start
